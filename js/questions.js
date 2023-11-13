@@ -2,57 +2,112 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Quem foi a primeira pessoa a viajar no Espaço?",
+    answer: "Yuri Gagarin",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Marcos Pontes",
+      "Buzz Aldrin"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual a montanha mais alta do mundo?",
+    answer: "Monte Everest",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Mauna Kea",
+      "Dhaulagiri",
+      "Monte Everest",
+      "Pico da Neblina"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Onde se localiza Machu Picchu?",
+    answer: "Peru",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Colômbia",
+      "Peru",
+      "China",
+      "Bolívia"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Qual país tem o formato de uma bota?",
+    answer: "Itália",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "México",
+      "Brasil",
+      "Portugal",
+      "Itália"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Quem inventou a lâmpada?",
+    answer: "Thomas Edison",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Graham Bell",
+      "Steve Jobs",
+      "Thomas Edison",
+      "Santos Dumont"
+    ]
+  },
+    {
+    numb: 6,
+    question: "Quantos ossos temos no corpo humano?",
+    answer: "206",
+    options: [
+      "126",
+      "206",
+      "18",
+      "200"
+    ]
+  },
+  {
+    numb: 7,
+    question: "Qual o maior planeta do sistema solar?",
+    answer: "Júpiter",
+    options: [
+      "Lua",
+      "Marte",
+      "Júpiter",
+      "Terra"
+    ]
+  },
+  {
+    numb: 8,
+    question: "Qual o planeta mais próximo so Sol?",
+    answer: "Mercúrio",
+    options: [
+      "Mercúrio",
+      "Terra",
+      "Marte",
+      "Netuno"
+    ]
+  },
+  {
+    numb: 9,
+    question: "Quantos continentes existem?",
+    answer: "6",
+    options: [
+      "2",
+      "8",
+      "4",
+      "6"
+    ]
+  },
+  {
+    numb: 10,
+    question: "Quantos andares tem o maior prédio do mundo,
+    answer: "163",
+    options: [
+      "100",
+      "163",
+      "200",
+      "25"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
